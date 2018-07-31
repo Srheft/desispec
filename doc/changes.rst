@@ -5,9 +5,9 @@ desispec Change Log
 0.23.1 (unreleased)
 -------------------
 
-* Ensure that FITS files specify FITS-standard-compliant units (PR `#666`_).
+* Ensure that FITS files specify FITS-standard-compliant units (PR `#673`_).
 
-.. _`#666`: https://github.com/desihub/desispec/pull/666
+.. _`#673`: https://github.com/desihub/desispec/pull/673
 
 0.23.0 (2018-07-26)
 -------------------
